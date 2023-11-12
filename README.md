@@ -39,10 +39,11 @@ As the Agent "Jane", I changed priority, the department and the SLA. Then the ti
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8jiykbX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding.
+Jane has responded back to ticket with a resolution. Jane has put the ticket into resolved status.
+<img src="https://i.imgur.com/KLy5QIn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<br />
+<p>
+Jane shows working the issue, coordinating with Sys Admin team who handles this specific situation.
